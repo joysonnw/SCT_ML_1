@@ -30,9 +30,9 @@ Run the training script to fit the model and save it as house_price_model.pkl:
    python lr_model.py
    ````
 Launch the Streamlit App
-   ```bash
-   streamlit run simple_gui.py
-   ```
+    ```bash
+    streamlit run simple_gui.py
+    ```
 This will start a local server.
 
 ---
