@@ -24,8 +24,7 @@ A machine learning project to predict house prices using **Linear Regression**, 
    ```
 3. Usage
    
-Train the Model
-Run the training script to fit the model and save it as house_price_model.pkl:
+Train the Model by Running the training script to fit the model and save it as house_price_model.pkl:
 
    ```bash
    python lr_model.py
