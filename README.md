@@ -23,6 +23,7 @@ A machine learning project to predict house prices using **Linear Regression**, 
    pip install numpy pandas scikit-learn streamlit
    ```
 3. Usage
+   
 Train the Model
 Run the training script to fit the model and save it as house_price_model.pkl:
 
