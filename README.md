@@ -1,4 +1,4 @@
-# Housing Price Prediction
+# Housing Price Prediction using Linear Regression
 
 A machine learning project to predict house prices using **Linear Regression**, wrapped in a **Streamlit web app** for an interactive user interface.
 
