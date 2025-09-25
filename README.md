@@ -34,5 +34,6 @@ streamlit run simple_gui.py
   ```
 This will start a local server.
 
+---
 ## Data
 Dataset: cleaned_houses.csv (cleaned dataset (i.e. missing values addressed, features normalized or engineered, etc.))
