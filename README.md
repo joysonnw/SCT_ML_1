@@ -16,6 +16,7 @@ A machine learning project to predict house prices using **Linear Regression**, 
    ```bash
    git clone https://github.com/joysonnw/SCT_ML_1.git
    cd SCT_ML_1
+   ```
 2. Install dependencies:
 
   ```bash
