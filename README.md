@@ -19,20 +19,20 @@ A machine learning project to predict house prices using **Linear Regression**, 
    ```
 2. Install dependencies:
 
-  ```bash
-  pip install numpy pandas scikit-learn streamlit
-  ```
+   ```bash
+   pip install numpy pandas scikit-learn streamlit
+   ```
 3. Usage
 Train the Model
 Run the training script to fit the model and save it as house_price_model.pkl:
 
-  ```bash
-  python lr_model.py
-  ````
+   ```bash
+   python lr_model.py
+   ````
 Launch the Streamlit App
-  ```bash
-streamlit run simple_gui.py
-  ```
+   ```bash
+   streamlit run simple_gui.py
+   ```
 This will start a local server.
 
 ---
