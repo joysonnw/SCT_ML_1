@@ -10,7 +10,6 @@ A machine learning project to predict house prices using **Linear Regression**, 
 - Lightweight and easy to run locally  
 
 ---
-
 ## Installation
 
 1. Clone the repository:
