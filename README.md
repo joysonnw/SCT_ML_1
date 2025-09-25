@@ -3,10 +3,10 @@
 A machine learning project to predict house prices using **Linear Regression**, wrapped in a **Streamlit web app** for an interactive user interface.
 
 ---
-## Features
-- Train a Linear Regression model on housing data  
-- Save and load the trained model (`house_price_model.pkl`)  
-- Interactive **Streamlit UI** for making predictions  
+## What it does
+- Trains a Linear Regression model on housing data  
+- Saves and loads the trained model as `house_price_model.pkl`  
+- Provides an interactive **Streamlit UI** for making predictions  
 - Lightweight and easy to run locally  
 
 ---
