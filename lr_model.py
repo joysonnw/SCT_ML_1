@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 import joblib
 
-df = pd.read_csv(r"C:\Users\nwjoy\OneDrive\Documents\SkillCraft\SCT-1\cleaned_houses.csv")
+df = pd.read_csv("cleaned_houses.csv")
 
 X = df[["GrLivArea", "BedroomAbvGr", "FullBath"]]
 y = df["SalePrice"]
